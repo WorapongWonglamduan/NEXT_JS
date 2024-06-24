@@ -14,12 +14,15 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.52.0",
-    "zod": "^3.23.8"
+    "react-icons": "^5.2.1",
+    "zod": "^3.23.8",
+    "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/zxcvbn": "^4.4.4",
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
     "postcss": "^8",
